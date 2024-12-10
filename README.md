@@ -1,4 +1,4 @@
 # itsmy-demo
 This is my first repository
 <br>
-author - mohit vyas
+author - mohit vyas ji
